@@ -24,3 +24,33 @@ a {
     background: black;
   }
 }
+
+:root {
+  // Color
+  // --------------------------------------------------
+
+  // パレットの色
+  --color-pumpkin: #f86e21;
+  --color-burntsienna: #ee6060;
+  --color-pippin: #ffe7e7;
+  --color-solitude: #e1e5eb;
+  --color-zumthor: #e7f1ff;
+  --color-apple: #4bc22d;
+  --color-alice-blue: #edf4ff;
+  --color-rose-pink: #fa9696;
+  --color-malibu: #96befa;
+  --color-matisse-light: #2672cb;
+  --color-matisse: #205fa9;
+  --color-matisse-rgb: 32, 95, 169;
+  --color-gray-49: #f9f9f9;
+  --color-gray-50: #f4f4f4;
+  --color-gray-100: #ecebeb;
+  --color-gray-300: #c4c4c4;
+  --color-gray-350: #cfcfcf;
+  --color-gray-400: #9d9d9d;
+  --color-gray-500: #888;
+  --color-gray-550: #808080;
+  --color-gray-600: #525253;
+  --color-gray-700: #3d3d3d;
+  --color-gray-900: #111;
+}

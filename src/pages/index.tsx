@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import { Btn } from '../components/UI/Btn'
 import styles from '../styles/Home.module.scss'
 
 export default function Home() {
@@ -15,6 +16,10 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href='https://nextjs.org'>Next.js!</a>
         </h1>
+
+        <Btn>
+          hogehoge
+        </Btn>
 
         <p className={styles.description}>
           Get started by editing <code className={styles.code}>pages/index.tsx</code>
